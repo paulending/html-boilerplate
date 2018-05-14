@@ -1,0 +1,27 @@
+{
+    "name": "html-boilerplate",
+    "version": "1.0.0",
+    "description": "Basic html sass/less boilerplate",
+    "main": "index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/paulending/html-boilerplate.git"
+    },
+    "keywords": [],
+    "author": "Pavel Konečný",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/paulending/html-boilerplate/issues"
+    },
+    "homepage": "https://github.com/paulending/html-boilerplate#readme",
+    "devDependencies": {
+        "browser-sync": "^2.24.4",
+        "gulp": "^3.9.1",
+        "gulp-less": "^3.5.0",
+        "gulp-sass": "^4.0.1",
+        "gulp-sourcemaps": "^2.6.4"
+    }
+}
