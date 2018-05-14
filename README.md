@@ -15,8 +15,6 @@ Less (http://lesscss.org/)
 
 ## Quick start
 
-Choose one of the following options:
-
 1. Instal nodejs
    [nodejs.org](https://nodejs.org/en/).
 2. Clone the git repo — `git clone https://github.com/paulending/html-boilerplate.git`
