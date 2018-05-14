@@ -6,7 +6,7 @@ var less = require('gulp-less');
 var browserSync = require('browser-sync').create();
 
 var src = './src';
-var dest = './app';
+var dest = './dist';
 
 // TODO: minify js
 // TODO: move and optimize images
