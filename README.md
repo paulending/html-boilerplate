@@ -3,16 +3,15 @@
 This is basic template for fast kickoff of html+sass/less page.
 
 ## Folders
-dist - contain final compiled code
-
-src - contain all source files
+dist - contain final compiled code  
+src - contain all source files  
 
 ## Prerequisites
-Git (https://git-scm.com/)
-NodeJs (https://nodejs.org/en/)
-Gulp (https://gulpjs.com/)
-Sass (https://sass-lang.com/)
-Less (http://lesscss.org/)
+Git (https://git-scm.com/)  
+NodeJs (https://nodejs.org/en/)  
+Gulp (https://gulpjs.com/)  
+Sass (https://sass-lang.com/)  
+Less (http://lesscss.org/)  
 
 ## Quick start
 
@@ -24,8 +23,8 @@ Less (http://lesscss.org/)
 
 ### Gulp tasks
 
-`gulp default` - run browsersync server and start watch source code files
-`gulp watch` - start watch source code files
-`gulp serve` - run browsersync server
-`gulp sass` - compile sass files
-`gulp less` - compile less files
+`gulp default` - run browsersync server and start watch source code files  
+`gulp watch` - start watch source code files  
+`gulp serve` - run browsersync server  
+`gulp sass` - compile sass files  
+`gulp less` - compile less files  
