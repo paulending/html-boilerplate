@@ -11,6 +11,7 @@ var dest = './dist';
 // TODO: minify js
 // TODO: move and optimize images
 // TODO: add css autoprefixer
+// TODO: add coping of files to cdn servers
 
 /// Compile SASS
 gulp.task('sass', function() {
