@@ -15,11 +15,11 @@ Less (http://lesscss.org/)
 
 ## Quick start
 
-1. Instal nodejs
-   [nodejs.org](https://nodejs.org/en/).
-2. Clone the git repo `git clone https://github.com/paulending/html-boilerplate.git`
-3. Run `npm install` in repo folder
-4. Prepare your code :-)
+1. Install git [git-scm.com](https://git-scm.com/downloads)
+2. Install nodejs [nodejs.org](https://nodejs.org/en/)
+3. Clone the git repo `git clone https://github.com/paulending/html-boilerplate.git`
+4. Run `npm install` in repo folder
+5. Prepare your code :-)
 
 ### Gulp tasks
 
