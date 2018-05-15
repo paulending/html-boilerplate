@@ -20,3 +20,10 @@ Less (http://lesscss.org/)
 2. Clone the git repo — `git clone https://github.com/paulending/html-boilerplate.git`
 3. Run `npm install` in repo folder
 4. Prepare your code :-)
+
+### Gulp tasks
+``gulp default``
+``gulp watch``
+``gulp serve``
+``gulp sass``
+``gulp less``
