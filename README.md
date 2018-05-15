@@ -23,6 +23,7 @@ Less (http://lesscss.org/)
 4. Prepare your code :-)
 
 ### Gulp tasks
+
 `gulp default` - run browsersync server and start watch source code files
 `gulp watch` - start watch source code files
 `gulp serve` - run browsersync server
